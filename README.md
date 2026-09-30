@@ -1,3 +1,6 @@
+# Name - Varshit Gude
+# SRN - PES1UG24CS518
+
 # 🌐 Automated Static Website with CI/CD
 
 ![Deploy Static Website](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=github-actions)
